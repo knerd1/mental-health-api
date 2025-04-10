@@ -1,0 +1,10 @@
+# compiled output
+/dist
+/node_modules
+
+
+.prod.env
+.dev.env
+
+.env
+build/

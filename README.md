@@ -19,7 +19,7 @@ This is a simple Node API to create and sign in users with [Stream](https://dub.
 Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/knerd1/mental-health-api
 cd mental-health-api
 ```
 
